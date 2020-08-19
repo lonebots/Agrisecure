@@ -4,7 +4,8 @@ Crop raiding is a major problem faced by farmers having farm lands near forests.
 
 ## Problem Statement
 <br/>
-**To solve the ever increasing problem of animal encroachment to human cultivated land and vegetation, instead of unethical and inefficient practices followed by local farmers, we try to bring in the most economical and eco-friendly design of a system ensuring 100% protection of the vegetation and safety of the animal.**
+
+**"To solve the ever increasing problem of animal encroachment to human cultivated land and vegetation, instead of unethical and inefficient practices followed by local farmers, we try to bring in the most economical and eco-friendly design of a system ensuring 100% protection of the vegetation and safety of the animal.""**
 
 ### App Specification:
 - UI design
